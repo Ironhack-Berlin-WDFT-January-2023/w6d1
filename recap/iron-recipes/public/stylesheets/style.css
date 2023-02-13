@@ -1,0 +1,40 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: #00b7ff;
+}
+
+h1 {
+  color: 15px;
+}
+
+input {
+  padding:10px;
+  margin:10px 0; 
+  border-radius: 10px;
+  font-family: monospace;
+}
+
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* labels on the forms */
+form label{
+  text-decoration: underline;
+  font-family: monospace;
+}
+
+button{
+  height: 50px;
+  
+}
+
